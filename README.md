@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1516116216624-53e697fedbea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60" width="100%"><br>
+<img src="file:///C:/Users/Paul%20IKHARO/Desktop/linkedin%20bg.jpg" width="100%"><br>
 
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">A passionate Fullstack Software Developer</h3>
@@ -19,7 +19,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pevansik&show_icons=true&locale=en&layout=compact" alt="pevansik" /></p>
-<br>
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=pevansik&show_icons=true&theme=radical">
 
 
