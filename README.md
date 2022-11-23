@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a self service Pawn shop application**
 
-- 💬 Ask me about **JavaScript and Web3**
+- 💬 Ask me about **JavaScript and Web3 Technologies**
 
 - 📫 How to reach me **pevansik@gmail.com**
 
