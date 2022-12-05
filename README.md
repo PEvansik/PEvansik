@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">A passionate Fullstack Software Developer</h3>
 
-- 🔭 I’m currently working on **a self service Pawn shop application**
+- 🔭 I’m currently working on **D4C**
 
 - 💬 Ask me about **JavaScript and Web3 Technologies**
 
